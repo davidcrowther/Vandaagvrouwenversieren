@@ -11,7 +11,7 @@ function responsive_player(){
     so.addParam('wmode','opaque');
     so.addVariable('file','https://s3-eu-west-1.amazonaws.com/vandaagvrouwenversieren/optin/pp-optin-animation-new.mp4');  so.addVariable('image','img/placeholder.png');
     so.addVariable('controlbar','false');
-    so.addVariable('autostart','false');
+    so.addVariable('autostart','true');
     so.addVariable('stretching','fill');
     so.addVariable('backcolor','ffffff');
     so.addVariable('frontcolor','ffffff');
